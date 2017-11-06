@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "marsoltys\\laravel-pckg-checker\\": "src/"
+      "marsoltys\\PckgChecker\\": "src/"
     }
   },
   "extra": {
