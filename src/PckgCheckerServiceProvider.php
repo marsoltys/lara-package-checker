@@ -14,7 +14,7 @@ namespace marsoltys\PckgChecker;
 
 use Illuminate\Support\ServiceProvider;
 
-class PackageCheckerServiceProvider extends ServiceProvider
+class PckgCheckerServiceProvider extends ServiceProvider
 {
     public function boot()
     {

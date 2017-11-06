@@ -25,7 +25,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "marsoltys\\laravel-pckg-checker\\PackageCheckerServiceProvider"
+        "marsoltys\\PckgChecker\\PckgCheckerServiceProvider"
       ]
     }
   }
